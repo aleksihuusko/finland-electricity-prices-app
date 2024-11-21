@@ -2,10 +2,13 @@
 
 A React-based web application that displays real-time electricity prices for Finland using the ENTSO-E Transparency Platform API. The app shows both current day and next day electricity prices in EUR/MWh.
 
+![finland-electricity-prices-app](https://github.com/user-attachments/assets/a6dcda21-deff-4d8e-a2e9-4f4954420bee)
+
 ## Features
 
 - Real-time electricity prices for Finland
 - Display of current day's hourly prices
+
 - Next day's prices (available after 13:00 Finnish time)
 - Responsive design for both desktop and mobile
 - Loading states and error handling
